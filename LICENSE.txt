@@ -1,0 +1,19 @@
+# Licence
+
+Copyright (c) 2026 Web Template Hub (https://webtemplatehub.online/)
+
+You may, free of charge:
+
+- use this template to build a website for yourself or for a client;
+- change the code, text, colours, fonts and layout however you like;
+- remove or keep the "Template by Web Template Hub" footer credit.
+
+You may not:
+
+- sell, resell or redistribute this template, or a lightly modified copy of it, as a template, theme or website kit;
+- upload it to other template marketplaces or download sites;
+- claim that you created the original template.
+
+The template is provided "as is", without warranty of any kind. The authors are not liable for any claim, damages or other liability arising from its use.
+
+Demo names, phone numbers, addresses and testimonials are placeholders. Replace them with your own real details before publishing.
